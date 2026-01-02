@@ -1,0 +1,8 @@
+[package]
+name = "re_rs"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+pollster = "0.4"
+winit = { version = "0.30.12", features = ["rwh_05"] }
